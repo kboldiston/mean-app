@@ -28,3 +28,5 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+This repo was created using the guide [here](https://scotch.io/tutorials/mean-app-with-angular-2-and-the-angular-cli). Check them out for some great tutorials.
