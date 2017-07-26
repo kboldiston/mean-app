@@ -4,10 +4,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Requirements
 
+* NodeJs. Picked for your OS: (nodejs.org) [https://nodejs.org/en/s]
 * Angular cli. Run: `npm install @angular/cli` in the project root.
 * Material components. Run: `npm install --save @angular/material @angular/cdk` in the project root.
-* 
-* 
 
 ## Development server
 
