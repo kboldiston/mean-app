@@ -2,6 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.4.
 
+## Requirements
+
+* Angular cli. Run: `npm install @angular/cli` in the project root.
+* Material components. Run: `npm install --save @angular/material @angular/cdk` in the project root.
+* 
+* 
+
 ## Development server
 
 Run `node server.js` for a dev server. Navigate to `http://localhost:3000/`.
